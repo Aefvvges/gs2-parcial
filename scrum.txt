@@ -1,0 +1,3 @@
+Actores: Proyect owner, scrum master, scrum team, interesados.
+Artefactos: Proyect log, sprint log.
+Ceremonias: Daily (es diara y dura 15 minutos), planing (es por cada semana y dura 1 hora aprox), revision (es una reunion con el proyect owner y los interesados cada semana)y retrospectiva (se hace al final del proyecyto)
